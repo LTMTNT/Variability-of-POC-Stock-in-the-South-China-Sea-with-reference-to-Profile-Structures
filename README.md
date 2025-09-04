@@ -24,7 +24,7 @@ This repository contains two main MATLAB scripts for analyzing POC distribution 
 - **3D cp660 profiles**: NetCDF files containing cp660 data (`cp_profile_optcp4_NN`) could be found at (https://doi.org/10.5281/zenodo.16957344)
 - **Bathymetry data**: `SCSdepth9km.mat` for South China Sea depth information    afforded in this repository
 - **Region coordinates**: `SCSLatLon.mat` for study area definition     afforded in this repository
-- **Chlorophyll data**: MODIS satellite chlorophyll-a products   could be found at (https://oceancolor.gsfc.nasa.gov.)
+- **Chlorophyll data**: MODIS satellite chlorophyll-a products   could be found at (https://oceandata.sci.gsfc.nasa.gov/l3/)
 
 ### Study Area
 - Northern South China Sea (15°N-25.125°N, 105°E-121.5°E)
